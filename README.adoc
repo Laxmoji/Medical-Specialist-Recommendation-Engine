@@ -1,12 +1,4 @@
-== Neo4j Movies Application: Quick Start
-
-image::https://github.com/neo4j-examples/movies-javascript-bolt/workflows/Node.js%20CI/badge.svg[CI]
-
-image::./img/demo.png[image of application]
-
-This example application demonstrates how easy it is to get started with http://neo4j.com/developer[Neo4j] in JavaScript.
-
-It is a very simple web application that uses our Movie graph dataset to provide a search with listing, a detail view and a graph visualization.
+== Foclóir Medical Specialist Recommendation Engine
 
 == The Stack
 
