@@ -54,11 +54,11 @@ After executing the `npm run build` command,  open local file "build/index.html"
 |neo4j+s://demo.neo4jlabs.com
 
 |NEO4J_USER
-|movies
+|neo4j
 
 |NEO4J_PASSWORD
-|movies
+|neo4j
 
 |NEO4J_DATABASE
-|movies
+|test
 |===
